@@ -16,9 +16,10 @@
 		<li>list 추가 1</li>
 		<li>list 추가 1</li>
 		<li>list 추가 1</li>
+			<li>list 추가 1</li>
+		
 	</ul>
 </body>
 <script>
-	var home
 </script>
 </html>
